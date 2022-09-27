@@ -1,0 +1,34 @@
+{
+  "name": "use-current-tab",
+  "version": "1.0.0",
+  "description": "A React Hook use to put tab activeKey in url",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senwong/useCurrentTab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senwong/useCurrentTab/issues"
+  },
+  "homepage": "https://github.com/senwong/useCurrentTab#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-router-dom": ">=6.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.0",
+    "typescript": "^4.8.3"
+  },
+  "files": [
+    "dist",
+    "lib",
+    "es",
+    "package.json"
+  ]
+}
